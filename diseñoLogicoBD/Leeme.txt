@@ -1,0 +1,2 @@
+Diseño logico BD, posiblemente trabajemos con ERStudio.
+Hasta ahora base de datos elegida es mySQL y SO es ubuntu.
