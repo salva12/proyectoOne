@@ -1,0 +1,17 @@
+Informacion del lenguaje a usar, estamos pensando segun veamos/aprendamos
+mas acerca de arquitectura de microservicios y ventajas que cada 
+lenguaje aporta a estos temas.
+
+
+lenguage para tratar con FrontEnd(framework) elegimos.........esto
+
+lenguaje para tratar con  web servicies elegimos..............esto
+
+lenguaje para tratar con  regla de negocio elegimos...........esto
+
+lenguaje para tratar con  ORM /acceso a datos elegimos .......esto
+
+Base de datos elegida hasta ahora mySql.
+
+Sistema operativo para trabajar Ubuntu.
+
