@@ -13,3 +13,8 @@ sino tenemos base de datos hecha y con datos va a se dificil ir aprendiendo todo
 
 Tengamos una BD en comun con el otro grupo, al menos eso. La tecnologia o forma para hacer los microservicios puede variar...
  mas no los resultados o la arquitectura de microservicios, esta debe ser correcta.
+
+
+
+ LES dejo un croquis de la BD de todo el escenario, es bien basico y aun le falta bastante trabajo para que funcione,
+ pero por algo se comienza.
