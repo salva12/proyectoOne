@@ -1,2 +1,3 @@
 Diseño Fisico BD, posiblemente trabajemos con ERStudio.
 Hasta ahora base de datos elegida es mySQL y SO es ubuntu.
+Me parece bien sql estoy de acuerdo y con ubuntu no hay problema, voy a ver si me instalo el ERStudio (salva).
